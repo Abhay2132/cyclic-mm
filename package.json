@@ -7,8 +7,8 @@
     "node": ">15"
   },
   "scripts": {
-    "start" : "git clone https://github.com/abhay2132/appz; cd appz ; npm start;",
-    "build" : "echo 'Bulid Done'",
+    "start" : "cd appz ; npm start;",
+    "build" : "git clone https://github.com/abhay2132/appz;",
     "test" : "echo test done"
   },
   "repository": {
